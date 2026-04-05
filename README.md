@@ -1,10 +1,9 @@
-# Integrated-Multi-Service-Enterprise-Framework-IMSEF-
+# Integrated Multi-Service Enterprise Framework (IMSEF) 🌐📞
 
 <img width="1399" height="839" alt="Screenshot 2026-04-05 092535" src="https://github.com/user-attachments/assets/98a42d1f-2380-40ae-89bc-421b6fb48ef9" />
 
 ---
 
-# Integrated Multi-Service Enterprise Framework (IMSEF) 🌐📞
 
 **IMSEF** is a comprehensive network infrastructure simulation designed to model a robust, scalable, and converged enterprise environment. The project integrates multi-site routing, switching, and Voice over IP (VoIP) services into a single unified framework.
 
